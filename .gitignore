@@ -19,7 +19,6 @@ MANIFEST
 docs/build/
 docs/source/_templates/
 docs/source/_static/
-.env
 venv/
 .venv/
 .conda/
@@ -149,7 +148,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -197,3 +195,5 @@ branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
 .gitignore
+config.bat
+node_modules
